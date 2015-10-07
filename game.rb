@@ -1,3 +1,5 @@
+#This game is copyright by Mikel. Creator of awesome games.
+
 def pyramid
   puts "
 
